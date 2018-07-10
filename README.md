@@ -1,6 +1,6 @@
 # Physically Evolving Networks
 
-This was a project that I conducted under the supervision of Professor Alfred Hüler at the Institute for Complexity Research at the University of Illinois in 2011. His students had conducted experiments to simulate Physically Evolving Networks (PEN) with metal particles in oil that had voltage applied to it (see Hubler, Stephenson, Lyon, and Swindeman 2011 for a description of the original experiment). When a current starts to flow, the metal particles formed branch-like structures, hence the name arbortron.
+This was a project that I conducted under the supervision of Professor Alfred Hübler at the Institute for Complexity Research at the University of Illinois in 2011. His students had conducted experiments to simulate Physically Evolving Networks (PEN) with metal particles in oil that had voltage applied to it (see Hubler, Stephenson, Lyon, and Swindeman 2011 for a description of the original experiment). When a current starts to flow, the metal particles formed branch-like structures, hence the name arbortron.
 
 My job was to provide proof-of-concept MATLAB code that digitally emulated the experimental behavior of the metal particles. In other words, to digitally simulate arbortron formation.
 
